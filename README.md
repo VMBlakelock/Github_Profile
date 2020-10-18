@@ -32,10 +32,10 @@
 ### During the course we completed 4 Personal Milestone Projects:
 
 
-[**Studiofettle Body & Mind Studio**](https://github.com/xxxxxx/Studiofettle-body-mind-studio) - **User Centric Frontend Development Milestone Project** 
+[**Studiofettle Body & Mind Studio**](https://vmblakelock.github.io/studiofettle-mind-body-studio/) - **User Centric Frontend Development Milestone Project** 
 - HTML/CSS/Bootstrap
 
-[**Destination Date Night**](https://github.com/xxxxxxxxx/destination-date-night) - **Interactive Frontent Development Milestone Project**
+[**Destination Date Night**](https://vmblakelock.github.io/destination-date-night/) - **Interactive Frontent Development Milestone Project**
 - HTML/CSS/Bootstrap/JavaScript
 
 [**xxxxxxxxxxxx**]
