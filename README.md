@@ -11,7 +11,25 @@
 - I’m currently working as a Project Manager alongside working through the Code Institute Full Stack Web Development course.
 - On completion of the course I hope to gain work in software development.
 - Currently loving all aspects of the course - not sure which route I will head down yet.
-- My personal projects for code institute modules are live on Github, feel free to take a look - however after the course intend to grow my portfolio.
+- My personal projects for code institute modules are live on Github, - link below  - feel free to take a look 
+- I do however, intend to grow my portfolio by adding more personal projects after completing the course.
+
+#### **Small Note: Some of the links are not all active yet! - hang fire - im busy studying for a fantastic future!** 
+
+---
+
+### During the course we completed 4 Personal Milestone Projects:
+
+
+[**Studiofettle Body & Mind Studio**](https://vmblakelock.github.io/studiofettle-mind-body-studio/) - **User Centric Frontend Development Milestone Project** 
+- HTML/CSS/Bootstrap
+
+[**Destination Date Night**](https://vmblakelock.github.io/destination-date-night/) - **Interactive Frontent Development Milestone Project**
+- HTML/CSS/Bootstrap/JavaScript
+
+[**xxxxxxxxxxxx**]
+
+[**xxxxxxxxxxxxx**]
 
 ---
 
@@ -29,21 +47,7 @@
 
 ---
 
-### During the course we completed 4 Personal Milestone Projects:
-
-
-[**Studiofettle Body & Mind Studio**](https://vmblakelock.github.io/studiofettle-mind-body-studio/) - **User Centric Frontend Development Milestone Project** 
-- HTML/CSS/Bootstrap
-
-[**Destination Date Night**](https://vmblakelock.github.io/destination-date-night/) - **Interactive Frontent Development Milestone Project**
-- HTML/CSS/Bootstrap/JavaScript
-
-[**xxxxxxxxxxxx**]
-
-[**xxxxxxxxxxxxx**]
-
-
-## We also completed walkthrough projects, see below my efforts:
+### We also completed walkthrough projects, see below my efforts:
 
 
 [**Love Running Project**](https://github.com/xxxxxxxx/love-running) - CSS Fundamentals Module 
