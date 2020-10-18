@@ -56,11 +56,11 @@
 [**Whiskey Drop Project**](https://github.com/xxxxxxxx/whiskey-drop) - User Centric Frontend Development Module 
 - HTML/CSS/Bootstrap
   
-[**Rosie's Resume Project**](https://github.com/xxxxxxx/rosies-resume-project) - User Centric Frontend Development Module 
+[**Rosie's Resume Project**](https://github.com/xxxxxxx/rosies-resume-project) - Interactive Frontend Development Module 
 - HTML/CSS/Bootstrap/Google API
 
-[**Thorin and Company**](https://github.com/xxxxxxx/thorin-and-company) - User Centric Frontend Development Module 
-- HTML/CSS/Bootstrap -Themes/JSON
+[**Thorin and Company**](https://github.com/xxxxxxx/thorin-and-company) - Data Centric Frontend Development Module 
+- HTML/CSS/Bootstrap - Themes/JSON
 
 
 ---
