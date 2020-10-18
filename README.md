@@ -1,4 +1,4 @@
-# Github_Profile - Vickie Blakelock
+# Github_Profile
 
 
 ### Vickie Blakelock 👋
