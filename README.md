@@ -1,10 +1,10 @@
 # Github_Profile
 
 
-### Vickie Blakelock 👋
+## Vickie Blakelock 👋
 
 ### Welcome, to my Github Profile
-## A Full Stack Software Development Student with Code Institute 
+### A Full Stack Software Development Student with Code Institute 
 
 ---
 
