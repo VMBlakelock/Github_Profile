@@ -1,18 +1,17 @@
 # Github_Profile - Vickie Blakelock
 
-##Hello there welcome to my Github_Profile!
 
 ### Vickie Blakelock 👋
 
-### Welcome, to my Github Profile - Hey there i'm Vickie!
-## Good to meet you!
+### Welcome, to my Github Profile
 ## A Full Stack Software Development Student with Code Institute 
 
 ---
 
 - I’m currently working as a Project Manager alongside working through the Code Institute Full Stack Web Development course.
-- On completion of the course I hope to gain work in web development.
-- My current projects for code institute modules are live on Github, feel free to take a look - however after the course intend to grow my portfolio.
+- On completion of the course I hope to gain work in software development.
+- Currently loving all aspects of the course - not sure which route I will head down yet.
+- My personal projects for code institute modules are live on Github, feel free to take a look - however after the course intend to grow my portfolio.
 
 ---
 
@@ -30,10 +29,10 @@
 
 ---
 
-### During the course we completed 4 personal Milestone projects:
+### During the course we completed 4 Personal Milestone Projects:
 
 
-[**Studiofettle Body & Mind Studio **](https://github.com/xxxxxx/Studiofettle-body-mind-studio) - **User Centric Frontend Development Milestone Project** 
+[**Studiofettle Body & Mind Studio**](https://github.com/xxxxxx/Studiofettle-body-mind-studio) - **User Centric Frontend Development Milestone Project** 
 - HTML/CSS/Bootstrap
 
 [**Destination Date Night**](https://github.com/xxxxxxxxx/destination-date-night) - **Interactive Frontent Development Milestone Project**
