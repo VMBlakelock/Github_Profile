@@ -11,7 +11,7 @@
 - I’m currently working as a Project Manager alongside working through the Code Institute Full Stack Web Development course.
 - On completion of the course I hope to gain work in software development.
 - Currently loving all aspects of the course - not sure which route I will head down yet.
-- My personal projects for code institute modules are live on Github, - link below  - feel free to take a look 
+- My personal projects for code institute modules are live and are deployed on Github and Heroku - links below  - feel free to take a look 
 - I do however, intend to grow my portfolio by adding more personal projects after completing the course.
 
 #### **Small Note: Some of the links are not all active yet! - hang fire - im busy studying for a fantastic future!** 
@@ -24,22 +24,27 @@
 [**Studiofettle Body & Mind Studio**](https://vmblakelock.github.io/studiofettle-mind-body-studio/) - **User Centric Frontend Development Milestone Project** 
 - HTML/CSS/Bootstrap
 
-[**Destination Date Night**](https://vmblakelock.github.io/destination-date-night/) - **Interactive Frontent Development Milestone Project**
+[**Destination Date Night**](https://vmblakelock.github.io/destination-date-night/) - **Interactive Frontend Development Milestone Project**
 - HTML/CSS/Bootstrap/JavaScript
 
-[**xxxxxxxxxxxx**]
+[**Saute & Skewers**]() - **Data Centric Development Milestone Project**
+- HTML/CSS/Bootstrap/JavaScript/Python/Flask
 
-[**xxxxxxxxxxxxx**]
-
+[**BouquetBlooms**]() - **Full Stack Frameworks With Django Milestone Project**
+- HTML/CSS/Bootstrap/JavaScript/Python/Django
 ---
 
-### Throughout the course we worked on a number of Languages, Frameworks and Tools:
+### Throughout the course we worked with a number of Languages, Frameworks and Tools:
 
 ![HTML](https://github.com/xxx/html.png)
 ![CSS](https://github.com/xx/css.png)
 ![Bootstrap](https://github.com/xx/bootstrap.png)
+![Materialize](https://github.com/xx/bootstrap.png)
 ![JavaScript](https://github.com/xx/javascript.png)
 ![jQuery](https://github.com/xx/jquery.png)
+![Python](https://github.com/xx/javascript.png)
+![Flask](https://github.com/xx/javascript.png)
+![Django](https://github.com/xx/javascript.png)
 
 ![Git](https://github.com/xxx/git.png)
 ![GitHub](https://github.com/xxx/github.png)
